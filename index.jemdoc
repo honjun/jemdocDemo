@@ -1,0 +1,34 @@
+# jemdoc: addcss{jemdo}
+# jemdoc: addcss{jemdo.css}
+# jemdoc: addjs{./js/jemdoc}
+# jemdoc: addjs{./js/jemdoc.js}
+# jemdoc: menu{MENU}{index.html}
+= Jacob Mattingley
+
+~~~
+{}{img_left}{https://jemnz.com/jacobm2.png}{Jacob Mattingley}
+~~~
+
+== Contact
+[www@jemnz.com]
+~~~
+{}{raw}
+<a href="https://twitter.com/jem_nz" class="twitter-follow-button">Follow @jem_nz</a>
+~~~
+
+￥x^{y^z}=(1+{\rm e}^x)^{-2xy^w}￥
+
+
+~~~
+{}{raw}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['￥', '￥'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+~~~

@@ -1,0 +1,4 @@
+# jemdoc: addcss{jemdo}
+# jemdoc: addcss{jemdo.css}
+# jemdoc: addjs{./js/jemdoc}
+# jemdoc: addjs{./js/jemdoc.js}
